@@ -1,8 +1,6 @@
 # GP-Classifier-Indexed-by-Probability-Density-Functions
 
-# Python Demo: GP-Classifier-Indexed-by-Probability-Density-Functions
-
-This Python demo provides an implementation of the "GP Classifier Indexed by Probability Density Functions" method
+This Python code provides an implementation of the "GP Classifier Indexed by Probability Density Functions" method
 
 ## Table of Contents
 
